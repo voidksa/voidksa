@@ -39,10 +39,7 @@ I’m an open-source enthusiast who enjoys **improving existing projects** more 
 
 ## 🌱 My Open Source Mindset
 
-I believe many great ideas already exist.
-
-My goal is not always to reinvent the wheel,  
-but to **upgrade it, refine it, and make it smoother**.
+I believe many great ideas already exist — my goal is not always to reinvent the wheel, but to **upgrade it, refine it, and make it smoother**.  
 
 > Small improvements can create big impact.
 
@@ -50,7 +47,7 @@ but to **upgrade it, refine it, and make it smoother**.
 
 ## 📫 How to Reach Me
 
-- GitHub: **@voidksa**
+- GitHub: **[@voidksa](https://github.com/voidksa)**
 - Open to discussions, issues, and pull requests
 
 ---
@@ -60,12 +57,11 @@ but to **upgrade it, refine it, and make it smoother**.
 If you like my work and want to support me:
 
 <a href="https://buymeacoffee.com/voidksa">
-  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-yellow?style=flat-square&logo=buy-me-a-coffee" />
+  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-yellow?style=flat-square&logo=buymeacoffee" />
 </a>
 
 ---
 
 ## 😄 Fun Fact
 
-If I find a project that feels *worth the effort*,  
-I’ll happily spend time polishing it until it shines ✨
+If I find a project that feels *worth the effort*, I’ll happily spend time polishing it until it shines ✨
