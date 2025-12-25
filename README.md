@@ -1,56 +1,108 @@
-<h1 align="center">Hi there, I'm Void 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Open Source Contributor • Code Improver • Quality-Oriented Developer</b>
-</p>
+# 👋 Hi there, I'm Void
 
-<p align="center">
-  <a href="https://github.com/voidksa">
-    <img src="https://img.shields.io/github/followers/voidksa?label=Followers&style=flat-square" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Code%20Quality-blue?style=flat-square" />
-</p>
+### Open Source Contributor • Code Improver • Quality-Oriented Developer
+
+[![Followers](https://img.shields.io/github/followers/voidksa?label=Followers&style=for-the-badge&color=0891b2&labelColor=1e293b&logo=github)](https://github.com/voidksa)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Lover-10b981?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1e293b)](https://github.com/voidksa)
+[![Code Quality](https://img.shields.io/badge/Focus-Code%20Quality-3b82f6?style=for-the-badge&logo=codacy&logoColor=white&labelColor=1e293b)](https://github.com/voidksa)
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
-I’m an open-source enthusiast who enjoys **improving existing projects** more than starting from scratch.
+```typescript
+const void = {
+  passion: "Improving existing projects",
+  mindset: "Refining > Starting from scratch",
+  focus: ["Code Quality", "User Experience", "Real-world Impact"],
+  motto: "Small improvements can create big impact 🚀"
+};
+```
 
-- 🔧 Passionate about contributing to **open source projects**
-- ♻️ I love **forking, refining, and enhancing** useful codebases
-- 🧠 I enjoy reading code, understanding design decisions, and polishing details
-- 🚀 I create my own projects occasionally — only when the idea truly deserves it
-- 🎯 I value **clean code, usability, and real-world usefulness**
-- 🌍 Always exploring tools and projects that are worth making better
+<div align="center">
 
-## 🛠️ What I Usually Work On
+### 🎯 My Philosophy
 
-- Improving UI/UX and developer experience  
-- Refactoring and optimizing existing code  
-- Adding missing features or polishing current ones  
-- Fixing edge cases and improving stability  
-- Turning good projects into **great ones**
+</div>
 
-## 🌱 My Open Source Mindset
+<table>
+<tr>
+<td width="50%">
 
-I believe many great ideas already exist — my goal is not always to reinvent the wheel, but to **upgrade it, refine it, and make it smoother**.  
+#### 💡 What Drives Me
 
-> Small improvements can create big impact.
+- 🔧 **Contributing** to open source projects
+- ♻️ **Forking & enhancing** useful codebases  
+- 🧠 **Understanding** design decisions
+- 🎨 **Polishing** details until they shine
+- 🌍 **Exploring** tools worth improving
 
-## 📫 How to Reach Me
+</td>
+<td width="50%">
 
-- GitHub: **[@voidksa](https://github.com/voidksa)**
-- X (Twitter): **[@voidksa2](https://x.com/voidksa2)**
-- Open to discussions, issues, and pull requests
+#### 🛠️ What I Work On
 
-## ☕ Buy me a coffee
+- ✨ Improving **UI/UX** & developer experience
+- ⚡ Refactoring & optimizing code
+- 🎁 Adding missing features
+- 🔒 Fixing edge cases & stability
+- 🌟 Turning good projects into **great ones**
 
-If you like my work and want to support me:
+</td>
+</tr>
+</table>
 
-<a href="https://buymeacoffee.com/voidksa">
-  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-yellow?style=flat-square&logo=buymeacoffee" />
-</a>
+<div align="center">
 
-## 😄 Fun Fact
+---
 
-If I find a project that feels *worth the effort*, I’ll happily spend time polishing it until it shines ✨
+### 🌱 Open Source Mindset
+
+*"I believe many great ideas already exist — my goal is to* ***upgrade, refine, and make them smoother*** *"*
+
+> 💭 **I create my own projects only when the idea truly deserves it**
+
+---
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=voidksa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e293b&title_color=0891b2&icon_color=3b82f6&text_color=94a3b8)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voidksa&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e293b&title_color=0891b2&text_color=94a3b8)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-@voidksa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/voidksa)
+[![X (Twitter)](https://img.shields.io/badge/X-@voidksa2-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/voidksa2)
+
+💬 **Open to discussions, issues, and pull requests!**
+
+---
+
+### ☕ Support My Work
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/voidksa)
+
+---
+
+### 😄 Fun Fact
+
+*If I find a project that feels **worth the effort**, I'll happily spend time polishing it until it shines* ✨
+
+<img src="https://komarev.com/ghpvc/?username=voidksa&color=0891b2&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+</div>
