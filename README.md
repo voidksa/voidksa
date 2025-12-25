@@ -70,15 +70,13 @@ const void = {
 
 </div>
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=voidksa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e293b&title_color=0891b2&icon_color=3b82f6&text_color=94a3b8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=voidksa&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voidksa&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e293b&title_color=0891b2&text_color=94a3b8)
-
-</div>
+</div></div>
 
 ---
 
