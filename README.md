@@ -40,6 +40,7 @@ I believe many great ideas already exist — my goal is not always to reinvent t
 ## 📫 How to Reach Me
 
 - GitHub: **[@voidksa](https://github.com/voidksa)**
+- X (Twitter): **[@voidksa2](https://x.com/voidksa2)**
 - Open to discussions, issues, and pull requests
 
 ## ☕ Buy me a coffee
