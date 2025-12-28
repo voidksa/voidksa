@@ -16,6 +16,11 @@
 
 I improve existing projects and make code better. Quality-focused developer who loves refining details.
 
+### ☕ Support me
+<a href="https://buymeacoffee.com/voidksa">
+  <img src="assets/images/bmc.png" alt="Buy Me a Coffee" width="180" />
+</a>
+
 ### 🛠️ Tech Stack
 
 ```typescript
