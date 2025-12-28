@@ -1,27 +1,22 @@
-<div align="center">
+# Hi there, I'm Void 👋
 
-# 👨‍💻 Void
-
-**TypeScript Developer** • **Open Source Enthusiast**
+Open Source Contributor • Code Improver • Quality-Oriented Developer
 
 [![GitHub](https://img.shields.io/badge/-@voidksa-181717?style=flat&logo=github)](https://github.com/voidksa)
 [![Twitter](https://img.shields.io/badge/-@voidksa2-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/voidksa2)
 [![Email](https://img.shields.io/badge/-voidksa2@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:voidksa2@gmail.com)
 
-</div>
 
----
-
-### 💡 About
+# 💡 About
 
 I improve existing projects and make code better. Quality-focused developer who loves refining details.
 
-### ☕ Support me
+# ☕ Buy me a coffee
 <a href="https://buymeacoffee.com/voidksa">
   <img src="assets/images/bmc.png" alt="Buy Me a Coffee" width="180" />
 </a>
 
-### 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ```typescript
 const skills = {
@@ -31,6 +26,11 @@ const skills = {
 }
 ```
 
-### 💬 Let's Connect
+# 💬 Let's Connect
 
 Open to collaborations and interesting projects!
+
+I focus on improving existing open-source projects.  
+Refining code, polishing details, and making good projects better.
+
+☕ Support: https://buymeacoffee.com/voidksa
