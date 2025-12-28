@@ -29,8 +29,3 @@ const skills = {
 # 💬 Let's Connect
 
 Open to collaborations and interesting projects!
-
-I focus on improving existing open-source projects.  
-Refining code, polishing details, and making good projects better.
-
-☕ Support: https://buymeacoffee.com/voidksa
