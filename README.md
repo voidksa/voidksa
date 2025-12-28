@@ -50,6 +50,7 @@ I'm an open-source enthusiast who loves improving existing projects more than st
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/voidksa)
 
 💬 Open to discussions, issues, and pull requests!
+📧 Email: [voidksa2@gmail.com](mailto:voidksa2@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=voidksa&color=0891b2&style=flat-square)
 
