@@ -1,31 +1,37 @@
-# Hi there, I'm Void 👋
+# Void
 
-Open Source Contributor • Code Improver • Quality-Oriented Developer
+Practical tools · Browser extensions · Open source
 
-[![GitHub](https://img.shields.io/badge/-@voidksa-181717?style=flat&logo=github)](https://github.com/voidksa)
-[![Twitter](https://img.shields.io/badge/-@voidksa2-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/voidksa2)
-[![Email](https://img.shields.io/badge/-voidksa2@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:voidksa2@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-voidksa-181717?style=flat&logo=github)](https://github.com/voidksa)
+[![X](https://img.shields.io/badge/X-@voidksa2-000000?style=flat&logo=x)](https://x.com/voidksa2)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:voidksa2@gmail.com)
 
+## About
 
-# 💡 About
+I build **small, focused tools** that solve real problems.
 
-I improve existing projects and make code better. Quality-focused developer who loves refining details.
+- Browser extensions
+- Windows productivity tools
+- Clean UX and maintainable code
 
-# ☕ Buy me a coffee
+Everything I publish is free and open source.
+
+## Selected Projects
+
+**Context Notes**  
+Notes that stay attached to the page you wrote them on.
+
+**[Project Name]**  
+One sentence explaining the problem it solves.
+
+## Tech
+
+TypeScript · JavaScript · React · Next.js · Node.js · C#
+
+## Support
+
 <a href="https://buymeacoffee.com/voidksa">
-  <img src="assets/images/bmc.png" alt="Buy Me a Coffee" width="180" />
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160">
 </a>
 
-# 🛠️ Tech Stack
-
-```typescript
-const skills = {
-  frontend: ["React", "Next.js", "TypeScript"],
-  backend: ["Node.js", "Express"],
-  tools: ["Git", "VS Code", "Figma"]
-}
-```
-
-# 💬 Let's Connect
-
-Open to collaborations and interesting projects!
+<sub>Build useful things. Ship them.</sub>
