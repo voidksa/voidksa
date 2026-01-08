@@ -17,14 +17,6 @@ I build **small, focused tools** that solve real problems.
 
 Everything I publish is free and open source.
 
-## Selected Projects
-
-**Context Notes**  
-Notes that stay attached to the page you wrote them on.
-
-**[Project Name]**  
-One sentence explaining the problem it solves.
-
 ## Tech
 
 TypeScript · JavaScript · React · Next.js · Node.js · C#
