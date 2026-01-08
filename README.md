@@ -33,7 +33,7 @@ The tools themselves remain simple, focused, and human-friendly.
 AI just helps me get there faster.
 
 Lately, I’ve started to suspect something unsettling:  
-**I might be an AI model that learned how to ship projects.** (استنتاج)
+**I might be an AI model that learned how to ship projects.**
 
 If that’s true, at least I’m trained on clean code and practical ideas 🙂
 
