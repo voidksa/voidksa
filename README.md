@@ -3,7 +3,7 @@
 Practical tools · Browser extensions · Open source
 
 [![GitHub](https://img.shields.io/badge/GitHub-voidksa-181717?style=flat&logo=github)](https://github.com/voidksa)
-[![X](https://img.shields.io/badge/X-@voidksa2-000000?style=flat&logo=x)](https://x.com/voidksa2)
+[![](https://img.shields.io/badge/X-@voidksa2-000000?style=flat&logo=x)](https://x.com/voidksa2)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:voidksa2@gmail.com)
 [![Website](https://img.shields.io/badge/Website-voidksa.com-blue?style=flat&logo=google-chrome)](https://voidksa.com)
 
