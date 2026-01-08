@@ -9,7 +9,8 @@ Practical tools · Browser extensions · Open source
 
 ## About
 
-I build **small, focused tools** that solve real problems — quietly, efficiently, and without unnecessary complexity.
+I build **small, focused tools** that solve real problems -  
+minimal on the surface, intentional underneath.
 
 - Browser extensions  
 - Windows productivity tools  
@@ -17,25 +18,33 @@ I build **small, focused tools** that solve real problems — quietly, efficient
 
 Everything I publish is **free and open source**.
 
-## A completely serious note (maybe 🤖)
+## On AI, obsession, and losing track of time 🤖
 
-I don’t build AI-powered tools.  
-I build tools *with* AI.
+I wake up thinking about AI.  
+I fall asleep experimenting with it.  
+Somewhere in between, tools get built.
 
-My workflow is deeply intertwined with AI — not as a dependency,  
-but as a force multiplier.
+I don’t build AI-powered products - 
+I use AI as a thinking partner, a shortcut, a mirror.
 
-I spend a *concerning* amount of money experimenting with AI models,  
-using them to turn ideas I once wished I could build “someday”  
-into real, practical projects *today*.
+I spend an unreasonable amount of money testing models,  
+not because I need them,  
+but because they let me build things I once believed  
+were years beyond my reach.
 
-The tools themselves remain simple, focused, and human-friendly.  
-AI just helps me get there faster.
+Ideas that used to live only in my head  
+now exist as working software -  
+not because AI replaces creativity,  
+but because it removes friction.
 
-Lately, I’ve started to suspect something unsettling:  
-**I might be an AI model that learned how to ship projects.**
+The tools I ship stay simple.  
+The complexity lives in the process.
 
-If that’s true, at least I’m trained on clean code and practical ideas 🙂
+Lately, I’ve started questioning something:  
+am I a developer using AI…  
+or an AI trained on curiosity that learned how to ship?
+
+Either way, the output remains human.
 
 ## Tech
 
@@ -47,4 +56,4 @@ TypeScript · JavaScript · React · Next.js · Node.js · C#
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160">
 </a>
 
-<sub>Build useful things. Ship them. Use AI responsibly.</sub>
+<sub>Build useful things. Ship often. Think deeply.</sub>
