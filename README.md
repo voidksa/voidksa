@@ -52,7 +52,7 @@ TypeScript · JavaScript · React · Next.js · Node.js · C#
 
 ## Support
 
-<a href="https://buymeacoffee.com/voidksa">
+<a href="https://creators.sa/voidksa">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160">
 </a>
 
