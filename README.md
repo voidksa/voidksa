@@ -1,6 +1,8 @@
 # Void
 
 Developer from Saudi Arabia. I build browser extensions and desktop tools.
+
+**View all my projects:** https://voidksa.com
 <table>
 <tr>
 <td valign="middle">
