@@ -2,16 +2,8 @@
 
 Developer from Saudi Arabia. I build browser extensions and desktop tools.
 
-**View all my projects:** https://voidksa.com
-<table>
-<tr>
-<td valign="middle">
-<a href="https://creators.sa/en/voidksa">
-<img src="assets/images/creators.png" height="28">
+**View all my projects:** [voidksa.com](https://voidksa.com)
+
+<a href="https://buymeacoffee.com/voidksa">
+  <img src="assets/images/bmc.png" alt="Buy Me a Coffee" height="40">
 </a>
-</td>
-<td valign="middle">
-Support my projects: https://creators.sa/en/voidksa
-</td>
-</tr>
-</table>
