@@ -10,9 +10,8 @@ Website: [extractly.vip](https://extractly.vip)
 ## Featured work
 
 - [Extractly](https://github.com/Extractly)
-- [BootEase](https://github.com/Extractly/BootEase)
-- [Loaderly](https://github.com/Extractly/Loaderly)
-- [TrueMoji](https://github.com/Extractly/TrueMoji)
+- [BootEase](https://github.com/voidksa/BootEase)
+- [Loaderly](https://github.com/voidksa/Loaderly)
 
 <a href="https://creators.sa/en/voidksa">
   <img src="assets/images/bmc.png" alt="Support Void" height="40">
