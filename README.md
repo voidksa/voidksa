@@ -2,17 +2,18 @@
 
 Independent developer from Saudi Arabia.
 
-I build browser extensions, desktop apps, and online tools.
+I build what interests me: browser extensions, desktop apps, and tools for the web.
 
-Founder of [Extractly](https://github.com/Extractly)  
-Website: [extractly.vip](https://extractly.vip)
+I work at my own pace. Stars and follower counts don't decide what I build next.
 
-## Featured work
+Founder of [Extractly](https://github.com/Extractly) · [extractly.vip](https://extractly.vip)
+
+## Things I've built
 
 - [Extractly](https://github.com/Extractly)
 - [BootEase](https://github.com/voidksa/BootEase)
 - [Loaderly](https://github.com/voidksa/Loaderly)
 
-<a href="https://creators.sa/en/voidksa">
-  <img src="assets/images/bmc.png" alt="Support Void" height="40">
-</a>
+If you find something useful here, I'm glad.
+
+[Support the work](https://creators.sa/en/voidksa) if you feel like it. No expectations.
